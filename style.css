@@ -64,8 +64,8 @@ html {
 }
 
 .img-content {
-    width: 100vh;
-    height: 58.8vh;
+    width: 80%;
+    height: 80%;
     border-radius: 90px;
 }
 
@@ -91,8 +91,8 @@ html {
 }
 
 .img-content4 {
-    width: 100vh;
-    height: 58.8vh;
+    width: 80%;
+    height: 80%;
     display: flex;
     justify-content: center;
     align-items: center;
